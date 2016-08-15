@@ -5,6 +5,9 @@ One table contains your steam games with friends include play time and achieveme
 ## Instructions
 
 ```
+# create .env file and fill up STEAM_KEY value
+cp .env.example .env
+
 # install nodemon
 npm i -g nodemon
 
